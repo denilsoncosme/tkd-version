@@ -2,7 +2,7 @@
   "min_version": "1.0.1",
   "latest_version": "1.2.0",
   "blocked_versions": [],
-  "expires_at": "2026-12-31",
+  "expires_at": "2026-12-30",
   "message_expired": "Esta versão do app expirou. Entre em contato com o organizador.",
   "message_outdated": "Esta versão está desatualizada e foi desativada. Solicite o APK atualizado ao organizador.",
   "message_blocked": "Esta versão foi bloqueada. Solicite o APK atualizado ao organizador."
