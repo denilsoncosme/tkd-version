@@ -106,7 +106,7 @@ A versão mais recente estará sempre disponível através dos canais oficiais d
 
 Para dúvidas, sugestões ou solicitações relacionadas à privacidade:
 
-**E-mail:** SEU_EMAIL_AQUI
+**E-mail:** denilson.acosme@gmail.com
 
 ---
 
