@@ -10,9 +10,9 @@ Caso não concorde com qualquer disposição destes termos, interrompa a utiliza
 
 ## 2. Descrição do Serviço
 
-O Score Fight LAN é uma ferramenta destinada ao gerenciamento, comunicação e exibição de placares esportivos, podendo operar por meio de redes locais (LAN) ou outras formas de comunicação suportadas pelo aplicativo.
+O Score Fight LAN é um aplicativo destinado ao gerenciamento, comunicação e exibição de placares esportivos, podendo operar por meio de redes locais (LAN) ou outras formas de comunicação suportadas pelo aplicativo.
 
-O Aplicativo é fornecido para auxiliar árbitros, organizadores, treinadores e participantes em eventos esportivos.
+O Aplicativo é fornecido como uma ferramenta de apoio para árbitros, organizadores, treinadores e participantes de eventos esportivos.
 
 ## 3. Requisitos de Uso
 
@@ -26,16 +26,17 @@ Ao utilizar o Aplicativo, o usuário concorda em:
 
 ## 4. Disponibilidade do Serviço
 
-O Aplicativo é fornecido "como está" e "conforme disponível".
+O Aplicativo é fornecido "como está" ("as is") e "conforme disponível".
 
-Embora sejam realizados esforços para manter o funcionamento adequado do serviço, não garantimos:
+Embora sejam realizados esforços para manter seu funcionamento adequado, não garantimos:
 
 * Disponibilidade ininterrupta;
-* Ausência total de erros;
+* Ausência de erros ou falhas;
 * Compatibilidade com todos os dispositivos;
-* Funcionamento permanente de todas as funcionalidades.
+* Funcionamento contínuo de todas as funcionalidades;
+* Precisão absoluta das informações exibidas.
 
-Funcionalidades podem ser alteradas, removidas ou adicionadas a qualquer momento.
+Funcionalidades podem ser alteradas, removidas ou adicionadas a qualquer momento, sem aviso prévio.
 
 ## 5. Propriedade Intelectual
 
@@ -44,48 +45,71 @@ Todos os direitos relativos ao Aplicativo, incluindo:
 * Código-fonte;
 * Layout;
 * Design;
-* Logotipos;
 * Nome do aplicativo;
+* Logotipos;
 * Documentação;
 
 são de propriedade do desenvolvedor ou de seus respectivos titulares.
 
-Nenhuma licença de propriedade intelectual é concedida ao usuário além do direito de uso do aplicativo.
+Nenhuma licença de propriedade intelectual é concedida ao usuário além do direito de utilização do Aplicativo.
 
-## 6. Anúncios
+## 6. Publicidade
 
 O Aplicativo poderá exibir anúncios fornecidos por parceiros de publicidade, incluindo o Google AdMob.
 
-Esses anúncios podem utilizar tecnologias que coletam informações técnicas do dispositivo para:
-
-* Exibição de anúncios;
-* Medição de desempenho;
-* Prevenção de fraudes;
-* Personalização de conteúdo publicitário quando permitido pela legislação aplicável.
-
-Informações detalhadas estão disponíveis na Política de Privacidade do Aplicativo.
+Tais anúncios poderão utilizar informações técnicas do dispositivo para fins de exibição, medição de desempenho e prevenção de fraudes, conforme descrito na Política de Privacidade do Aplicativo.
 
 ## 7. Limitação de Responsabilidade
 
-Na máxima extensão permitida pela legislação aplicável:
+O usuário reconhece que utiliza o Aplicativo por sua própria conta e risco.
 
-* O desenvolvedor não será responsável por perdas indiretas, incidentais ou consequenciais decorrentes do uso do Aplicativo;
-* O usuário é responsável pela conferência dos dados exibidos pelo sistema;
-* O desenvolvedor não garante que informações inseridas pelos usuários estejam livres de erros;
-* O desenvolvedor não se responsabiliza por falhas decorrentes de problemas de internet, rede local, sistemas operacionais ou serviços de terceiros.
+Na máxima extensão permitida pela legislação aplicável, o desenvolvedor não garante que:
 
-## 8. Serviços de Terceiros
+* O Aplicativo esteja livre de erros;
+* O Aplicativo funcionará sem interrupções;
+* Os dados exibidos serão sempre precisos ou atualizados;
+* O Aplicativo atenderá às necessidades específicas de todos os usuários.
+
+O desenvolvedor não será responsável por:
+
+* Perda de dados;
+* Perda de lucros;
+* Interrupção de atividades;
+* Danos indiretos, incidentais ou consequenciais;
+* Falhas de comunicação entre dispositivos;
+* Problemas decorrentes de falhas de internet ou rede local;
+* Problemas causados por sistemas operacionais, fabricantes de dispositivos ou serviços de terceiros;
+* Erros decorrentes de informações inseridas pelos próprios usuários.
+
+## 8. Uso em Competições e Eventos
+
+O Score Fight LAN é uma ferramenta de apoio operacional.
+
+As decisões oficiais relativas a competições, resultados, pontuações, penalidades, classificações e arbitragem são de responsabilidade exclusiva dos organizadores, árbitros e responsáveis pelo evento.
+
+O desenvolvedor não se responsabiliza por:
+
+* Resultados de competições;
+* Pontuações registradas incorretamente;
+* Erros de operação pelos usuários;
+* Perda de conexão entre dispositivos;
+* Falhas de sincronização;
+* Decisões tomadas com base nas informações exibidas pelo Aplicativo.
+
+Os usuários devem validar as informações antes de utilizá-las em decisões oficiais.
+
+## 9. Serviços de Terceiros
 
 O Aplicativo poderá utilizar serviços fornecidos por terceiros, incluindo:
 
 * Google Play Services;
 * Google AdMob;
 * Firebase;
-* Outros serviços necessários para operação do Aplicativo.
+* Outros serviços necessários para sua operação.
 
-O uso desses serviços está sujeito aos termos e políticas dos respectivos fornecedores.
+O uso desses serviços está sujeito aos respectivos termos e políticas de seus fornecedores.
 
-## 9. Suspensão ou Encerramento
+## 10. Suspensão ou Encerramento
 
 O desenvolvedor reserva-se o direito de:
 
@@ -96,21 +120,21 @@ O desenvolvedor reserva-se o direito de:
 
 Sempre que possível, alterações significativas serão comunicadas aos usuários.
 
-## 10. Alterações destes Termos
+## 11. Alterações destes Termos
 
-Estes Termos de Uso poderão ser alterados periodicamente.
+Estes Termos de Uso poderão ser atualizados periodicamente.
 
 A versão mais recente estará sempre disponível nos canais oficiais do Aplicativo.
 
-O uso contínuo do Aplicativo após alterações constitui aceitação dos novos termos.
+O uso continuado do Aplicativo após alterações constitui aceitação dos novos termos.
 
-## 11. Legislação Aplicável
+## 12. Legislação Aplicável
 
 Estes Termos serão regidos pelas leis da República Federativa do Brasil.
 
-Qualquer controvérsia relacionada ao uso do Aplicativo será interpretada conforme a legislação brasileira aplicável.
+Qualquer controvérsia relacionada ao uso do Aplicativo será interpretada de acordo com a legislação brasileira aplicável.
 
-## 12. Contato
+## 13. Contato
 
 Para dúvidas, sugestões ou solicitações relacionadas a estes Termos de Uso:
 
@@ -118,4 +142,4 @@ Para dúvidas, sugestões ou solicitações relacionadas a estes Termos de Uso:
 
 ---
 
-Score Fight LAN © 2026. Todos os direitos reservados.
+**Score Fight LAN © 2026. Todos os direitos reservados.**
