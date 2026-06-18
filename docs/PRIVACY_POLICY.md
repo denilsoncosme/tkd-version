@@ -1,113 +1,145 @@
-# Política de Privacidade – Score Fight LAN
+# Termos de Uso – Score Fight LAN
 
 **Última atualização:** 18 de junho de 2026
 
-## 1. Introdução
+## 1. Aceitação dos Termos
 
-Esta Política de Privacidade descreve como o aplicativo **Score Fight LAN** ("Aplicativo") coleta, utiliza e compartilha informações quando você utiliza nossos serviços.
+Ao baixar, instalar ou utilizar o aplicativo **Score Fight LAN** ("Aplicativo"), você concorda com estes Termos de Uso.
 
-Ao utilizar o Aplicativo, você concorda com as práticas descritas nesta Política.
+Caso não concorde com qualquer disposição destes termos, interrompa a utilização do Aplicativo.
 
-## 2. Informações Coletadas
+## 2. Descrição do Serviço
 
-O Score Fight LAN não solicita cadastro de usuários nem coleta diretamente informações pessoais como nome, CPF, endereço ou telefone.
+O Score Fight LAN é um aplicativo destinado ao gerenciamento, comunicação e exibição de placares esportivos, podendo operar por meio de redes locais (LAN) ou outras formas de comunicação suportadas pelo aplicativo.
 
-Entretanto, serviços de terceiros utilizados pelo aplicativo poderão coletar determinadas informações automaticamente, incluindo:
+O Aplicativo é fornecido como uma ferramenta de apoio para árbitros, organizadores, treinadores e participantes de eventos esportivos.
 
-* Endereço IP;
-* Identificadores do dispositivo;
-* Informações do sistema operacional;
-* Modelo do dispositivo;
-* Dados de desempenho e falhas do aplicativo;
-* Informações relacionadas à exibição de anúncios.
+## 3. Requisitos de Uso
 
-## 3. Publicidade
+Ao utilizar o Aplicativo, o usuário concorda em:
 
-O aplicativo poderá exibir anúncios fornecidos pelo Google AdMob.
+* Utilizar o serviço de forma legal e responsável;
+* Não tentar acessar áreas restritas ou funcionalidades não autorizadas;
+* Não realizar engenharia reversa, descompilação ou modificação indevida do aplicativo;
+* Não utilizar o aplicativo para fins ilícitos ou fraudulentos;
+* Não interferir no funcionamento normal do serviço.
 
-O Google e seus parceiros podem coletar e processar informações para:
+## 4. Disponibilidade do Serviço
 
-* Exibir anúncios;
-* Medir desempenho de campanhas;
-* Detectar fraudes;
-* Melhorar a experiência publicitária.
+O Aplicativo é fornecido "como está" ("as is") e "conforme disponível".
 
-Para saber mais sobre como o Google utiliza informações, consulte:
+Embora sejam realizados esforços para manter seu funcionamento adequado, não garantimos:
 
-* https://policies.google.com/technologies/partner-sites
-* https://policies.google.com/privacy
+* Disponibilidade ininterrupta;
+* Ausência de erros ou falhas;
+* Compatibilidade com todos os dispositivos;
+* Funcionamento contínuo de todas as funcionalidades;
+* Precisão absoluta das informações exibidas.
 
-## 4. Permissões do Aplicativo
+Funcionalidades podem ser alteradas, removidas ou adicionadas a qualquer momento, sem aviso prévio.
 
-O aplicativo poderá solicitar permissões necessárias para seu funcionamento.
+## 5. Propriedade Intelectual
 
-Dependendo das funcionalidades disponíveis em versões futuras, o aplicativo poderá utilizar:
+Todos os direitos relativos ao Aplicativo, incluindo:
 
-* Acesso à rede local;
-* Conexão com a internet;
-* Armazenamento local do dispositivo.
+* Código-fonte;
+* Layout;
+* Design;
+* Nome do aplicativo;
+* Logotipos;
+* Documentação;
 
-Nenhuma permissão será utilizada para finalidades diferentes daquelas necessárias para o funcionamento do aplicativo.
+são de propriedade do desenvolvedor ou de seus respectivos titulares.
 
-## 5. Dados de Diagnóstico e Falhas
+Nenhuma licença de propriedade intelectual é concedida ao usuário além do direito de utilização do Aplicativo.
 
-O aplicativo poderá utilizar ferramentas de terceiros para coletar informações técnicas sobre erros e desempenho.
+## 6. Publicidade
 
-Essas informações podem incluir:
+O Aplicativo poderá exibir anúncios fornecidos por parceiros de publicidade, incluindo o Google AdMob.
 
-* Tipo de dispositivo;
-* Versão do sistema operacional;
-* Horário da ocorrência do erro;
-* Dados técnicos necessários para diagnóstico.
+Tais anúncios poderão utilizar informações técnicas do dispositivo para fins de exibição, medição de desempenho e prevenção de fraudes, conforme descrito na Política de Privacidade do Aplicativo.
 
-Esses dados são utilizados exclusivamente para melhorar a estabilidade e qualidade do aplicativo.
+## 7. Limitação de Responsabilidade
 
-## 6. Compartilhamento de Informações
+O usuário reconhece que utiliza o Aplicativo por sua própria conta e risco.
 
-O Score Fight LAN não vende informações pessoais dos usuários.
+Na máxima extensão permitida pela legislação aplicável, o desenvolvedor não garante que:
 
-Entretanto, determinadas informações podem ser compartilhadas com fornecedores de serviços utilizados pelo aplicativo, incluindo:
+* O Aplicativo esteja livre de erros;
+* O Aplicativo funcionará sem interrupções;
+* Os dados exibidos serão sempre precisos ou atualizados;
+* O Aplicativo atenderá às necessidades específicas de todos os usuários.
 
-* Google AdMob;
+O desenvolvedor não será responsável por:
+
+* Perda de dados;
+* Perda de lucros;
+* Interrupção de atividades;
+* Danos indiretos, incidentais ou consequenciais;
+* Falhas de comunicação entre dispositivos;
+* Problemas decorrentes de falhas de internet ou rede local;
+* Problemas causados por sistemas operacionais, fabricantes de dispositivos ou serviços de terceiros;
+* Erros decorrentes de informações inseridas pelos próprios usuários.
+
+## 8. Uso em Competições e Eventos
+
+O Score Fight LAN é uma ferramenta de apoio operacional.
+
+As decisões oficiais relativas a competições, resultados, pontuações, penalidades, classificações e arbitragem são de responsabilidade exclusiva dos organizadores, árbitros e responsáveis pelo evento.
+
+O desenvolvedor não se responsabiliza por:
+
+* Resultados de competições;
+* Pontuações registradas incorretamente;
+* Erros de operação pelos usuários;
+* Perda de conexão entre dispositivos;
+* Falhas de sincronização;
+* Decisões tomadas com base nas informações exibidas pelo Aplicativo.
+
+Os usuários devem validar as informações antes de utilizá-las em decisões oficiais.
+
+## 9. Serviços de Terceiros
+
+O Aplicativo poderá utilizar serviços fornecidos por terceiros, incluindo:
+
 * Google Play Services;
-* Firebase (caso venha a ser utilizado futuramente).
+* Google AdMob;
+* Firebase;
+* Outros serviços necessários para sua operação.
 
-O compartilhamento ocorre apenas na medida necessária para operação dessas plataformas.
+O uso desses serviços está sujeito aos respectivos termos e políticas de seus fornecedores.
 
-## 7. Segurança
+## 10. Suspensão ou Encerramento
 
-Empregamos medidas razoáveis para proteger as informações processadas pelo aplicativo.
+O desenvolvedor reserva-se o direito de:
 
-No entanto, nenhum método de transmissão pela internet ou armazenamento eletrônico é completamente seguro e, portanto, não podemos garantir segurança absoluta.
+* Modificar funcionalidades;
+* Suspender temporariamente serviços;
+* Encerrar funcionalidades específicas;
+* Descontinuar o Aplicativo.
 
-## 8. Privacidade de Crianças
+Sempre que possível, alterações significativas serão comunicadas aos usuários.
 
-O aplicativo não é direcionado a crianças menores de 13 anos.
+## 11. Alterações destes Termos
 
-Não coletamos intencionalmente informações pessoais de crianças.
+Estes Termos de Uso poderão ser atualizados periodicamente.
 
-Caso um responsável identifique que uma criança forneceu informações pessoais indevidamente, entre em contato conosco para que possamos tomar as medidas apropriadas.
+A versão mais recente estará sempre disponível nos canais oficiais do Aplicativo.
 
-## 9. Seus Direitos
+O uso continuado do Aplicativo após alterações constitui aceitação dos novos termos.
 
-Dependendo da legislação aplicável, você poderá ter direitos relacionados aos seus dados, incluindo:
+## 12. Legislação Aplicável
 
-* Solicitar informações sobre dados processados;
-* Solicitar exclusão de informações quando aplicável;
-* Revogar consentimentos fornecidos anteriormente.
+Estes Termos serão regidos pelas leis da República Federativa do Brasil.
 
-## 10. Alterações nesta Política
+Qualquer controvérsia relacionada ao uso do Aplicativo será interpretada de acordo com a legislação brasileira aplicável.
 
-Esta Política de Privacidade poderá ser atualizada periodicamente.
+## 13. Contato
 
-A versão mais recente estará sempre disponível através dos canais oficiais do aplicativo.
-
-## 11. Contato
-
-Para dúvidas, sugestões ou solicitações relacionadas à privacidade:
+Para dúvidas, sugestões ou solicitações relacionadas a estes Termos de Uso:
 
 **E-mail:** denilson.acosme@gmail.com
 
 ---
 
-Desenvolvedor do aplicativo Score Fight LAN.
+**Score Fight LAN © 2026. Todos os direitos reservados.**
